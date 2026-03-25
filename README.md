@@ -1,6 +1,13 @@
 # 💫 About Me:
-I am an experienced React JS Developer with over 10 years in frontend development,<br>specializing in building scalable micro frontend architectures. I have a proven track<br>record of leading cross-functional teams and delivering projects from inception to<br>completion. My expertise encompasses a range of technologies including JavaScript,<br>React, TypeScript, and Agile methodologies. I am passionate about continuous learning<br>and contribute to organizational growth through innovative solutions
+#  Senior Software Engineer | Micro-Frontend Architect | Full-Stack Developer
 
+With 11+ years of experience in JavaScript, I specialize in designing and building scalable, high-performance web applications and micro-frontend architectures.
+
+I have led cross-functional teams and delivered complex systems end-to-end, focusing on performance, scalability, and maintainability.
+
+In addition to strong frontend expertise in React and Redux (9+ years), I bring 2+ years of experience in Vue.js and Pinia, as well as backend development using Node.js and Express.
+
+I am passionate about system design, performance optimization, and building scalable frontend platforms that enable teams to move faster.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Subasish-Chakraborty) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subasishch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subasishch) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6458005) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@subasishchakraborty4831) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subasis14@gmail.com) 
